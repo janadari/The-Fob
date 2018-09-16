@@ -50,6 +50,6 @@ Other features --
 
 	Your passwords will become secured with your finger-print.
 	
-	You will be able to work so with  many languages.
+	You will be able to work with  many languages.
 
 
