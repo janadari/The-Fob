@@ -19,15 +19,16 @@ The Fob allows you to store usernames and passwords in and encrypted database pr
 
 Easy to use --
 	
-	The Fob becomes very simplicity with its userfriendly interface.It is super easy to use. 
+	The Fob becomes very simplicity with its user-friendly interface.
+	It is super easy to use. 
 	It's next-generation software that is built just for you.
 
 Can change the Language --
 
-	It has a option to choose a Language you want(English / Sinhala).
+	The Fob allows to choose the Language .(English / Sinhala)
 
 
-Heigher Security --
+Higher Security --
 
 	With The Fob, you can have on-demand access to encrypted passwords, applications and websites.
 	With a Private Master Password, only the user knows the Master Password used to encrypt and 
@@ -41,13 +42,13 @@ Saves your time every day --
 Other features --
 
 	database and folder fields can be fully customized. It is possible to add/modify/remove fields
-	for individual folder or entire database;
-	
-	Easy to customize your interface by changing  icons.
+	for individual folder or entire database.
+
+	You can change icons and edit user inter-face as you like.
 
 ### Upcoming features
 
-	Your passwords will become secured with your fringer Print.
+	Your passwords will become secured with your fringer-print.
 	
 	You will be able to work with so  many languages.
 
