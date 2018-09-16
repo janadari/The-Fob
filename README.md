@@ -48,8 +48,8 @@ Other features --
 
 ### Upcoming features
 
-	Your passwords will become secured with your fringer-print.
+	Your passwords will become secured with your finger-print.
 	
-	You will be able to work with so  many languages.
+	You will be able to work so with  many languages.
 
 
