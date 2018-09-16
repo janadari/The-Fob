@@ -10,10 +10,6 @@
 The Fob is a great password manager app that can keep your password in very safe.
 The Fob allows you to store usernames and passwords in and encrypted database protected by one master password.
 
-### Screenshots
-
-<img src=" height="400" alt="Screenshot"/> <img src=“C:\Users\shehani\Desktop\New folder (3)\IMG_20180917_002001.png" height="400" alt="Screenshot"/>
-
 
 
 ### Features
@@ -26,7 +22,7 @@ Easy to use --
 
 Can change the Language --
 
-	The Fob allows to choose language .(English / Sinhala)
+	You can work it with English or Sinhala language.
 
 
 Higher Security --
