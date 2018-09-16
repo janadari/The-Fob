@@ -41,15 +41,15 @@ Saves your time every day --
 
 Other features --
 
-	database and folder fields can be fully customized. It is possible to add/modify/remove fields
+	Database and folder fields can be fully customized. It is possible to add/modify/remove fields
 	for individual folder or entire database.
 
-	You can change icons and edit user inter-face as you like.
+	You can change icons and edit user interface as you like.
 
 ### Upcoming features
 
 	Your passwords will become secured with your finger-print.
 	
-	You will be able to work with  many languages.
+	You will be able to select another language instead of English and Sinhala.
 
 
