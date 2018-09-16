@@ -22,6 +22,10 @@ Easy to use --
 	The Fob becomes very simplicity with its userfriendly interface.It is super easy to use. 
 	It's next-generation software that is built just for you.
 
+Can change the Language --
+
+	It has a option to choose a Language you want(English / Sinhala).
+
 
 Heigher Security --
 
@@ -34,9 +38,17 @@ Saves your time every day --
 	Instead of dozens of passwords, remember just one. Everything else is automatically filled in by 
 	the password manager. 
 
+Other features --
+
+	database and folder fields can be fully customized. It is possible to add/modify/remove fields
+	for individual folder or entire database;
+	
+	Easy to customize your interface by changing  icons.
 
 ### Upcoming features
 
-	your passwords will become secured with your fringer Print.
+	Your passwords will become secured with your fringer Print.
+	
+	You will be able to work with so  many languages.
 
 
