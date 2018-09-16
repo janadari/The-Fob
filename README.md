@@ -37,5 +37,6 @@ Saves your time every day --
 
 ### Upcoming features
 
+	your passwords will become secured with your fringer Print.
 
 
