@@ -25,7 +25,7 @@ Easy to use --
 
 Can change the Language --
 
-	The Fob allows to choose the Language .(English / Sinhala)
+	The Fob allows to choose language .(English / Sinhala)
 
 
 Higher Security --
